@@ -1,0 +1,10 @@
+{
+  "name": "spotify",
+  "version": "0.1.0",
+  "description": "Panel de Spotify al costado del chat: qué suena, anterior/siguiente, play/pausa y cambio de playlist",
+  "types": "./types/index.d.ts",
+  "author": {
+    "name": "ekomac"
+  },
+  "license": "Apache-2.0"
+}

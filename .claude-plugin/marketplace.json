@@ -1,0 +1,11 @@
+{
+  "name": "ekomac-plugins",
+  "owner": { "name": "ekomac" },
+  "plugins": [
+    {
+      "name": "spotify",
+      "source": "./plugins/spotify",
+      "description": "Panel de Spotify al costado del chat: qué suena, anterior/siguiente, play/pausa y cambio de playlist"
+    }
+  ]
+}
